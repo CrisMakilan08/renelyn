@@ -1,0 +1,48 @@
+#about-info {
+    min-height: 50vh;
+    background-color: rgb(solid gray);
+    margin-bottom: 10%;
+    border-radius: 2px solid black;
+}
+.h1{
+  font-size: 30px;
+}
+
+#about img {
+  width: 320px;
+  border-radius: 20px;
+  box-shadow: 20px 20px 20px #000;
+}
+
+#about img:hover {
+  width: 350px;
+  transition: all .5s ease;
+  background-color: dimgrey;
+}
+
+#about span:hover {
+  color: #1622c9;
+  filter: drop-shadow(0 0 0.75rem purple);
+  text-shadow: 0 0 20px purple, 0 0 40px purple;
+  transition: all 0.4s ease;
+}
+
+#about span {
+  font-size: 18px;
+  text-decoration: none;
+  color: rgb(solid gray);
+}
+
+#about {
+  background: solid black; 
+  padding-top: 10px;
+padding-bottom: 30px;
+}
+.card shadow{
+  background: rgb(solid gray);
+
+}
+.card{
+  background: rgb(solid black);
+
+}

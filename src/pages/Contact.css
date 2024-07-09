@@ -1,0 +1,46 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: rgb(blue); 
+  margin-top: 5%;
+}
+
+.gonzaga {
+  background-color: rgb(gray);
+  border-radius: 10px;
+  padding: 10%;
+  box-shadow: 0 0 10px rgba(243, 71, 122, 0.897);
+  
+}
+
+.contact-form .form-control {
+  margin-bottom: 1rem;
+  padding-top: 0rem;
+  
+ 
+}
+
+.contact-form .btn {
+  display: block;
+  width: 100%;
+  
+}
+.btn{
+  background-color: gray;
+}
+
+.social-icons a {
+  color: #000;
+  transition: color 0.3s ease;
+}
+
+.facebook{
+  color: rgb(42, 150, 245);
+}
+.facebook:hover{
+  color: rgb(9, 91, 164);
+}
+
+
